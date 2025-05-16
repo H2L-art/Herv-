@@ -389,11 +389,8 @@ footer {
     }
     header nav {
         display:grid;
-        font-size: 20px;
+        font-size: 10px;
     } 
-    header h2 {
-        font-size: 15px;
-    }
 
     
     main {
