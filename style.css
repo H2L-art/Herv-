@@ -384,6 +384,8 @@ footer {
 
     header nav {
         display: grid;
+        gap: 0.3rem;
+        font-size: 15px;
     } 
  
     main {
