@@ -383,6 +383,9 @@ footer {
 @media  screen and (max-width:768px) {
     header {
         gap: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     header nav {
         display:grid;
