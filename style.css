@@ -390,6 +390,7 @@ footer {
     header nav {
         display:grid;
         font-size: 10px;
+        gap: 0.3rem;
     } 
 
     
