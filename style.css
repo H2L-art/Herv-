@@ -384,6 +384,8 @@ footer {
 
     header nav {
         display: grid;
+        font-size: 15px;
+        gap: 5px;
     } 
 
     header button {
