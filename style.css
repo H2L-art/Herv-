@@ -404,6 +404,7 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        gap: 10px;
     }
     #hero .gauche h1 {
         font-size: 40px;
