@@ -383,17 +383,11 @@ footer {
 @media  screen and (max-width:768px) {
 
     header nav {
-        display: grid;
+        display: none;
         font-size: 15px;
         gap: 5px;
     } 
 
-    header button {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh
-    }
 
     
     main {
