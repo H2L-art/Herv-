@@ -389,6 +389,7 @@ footer {
     }
     header nav {
         display:grid;
+        font-size: 20px;
     } 
 
     
