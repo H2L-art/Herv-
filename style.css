@@ -384,12 +384,8 @@ footer {
 
     header nav {
         display: none;
-        font-size: 15px;
-        gap: 5px;
     } 
-
-
-    
+ 
     main {
         padding: 1rem;
     }
