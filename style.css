@@ -385,7 +385,7 @@ footer {
     header nav {
         display: grid;
         gap: 0.3rem;
-        font-size: 8px;
+        font-size: 5px;
         justify-content: center;
         align-items: center;
         text-align: center;
